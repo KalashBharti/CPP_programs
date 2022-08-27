@@ -62,7 +62,7 @@ void print()    //print the board
     cout << "-----------------" << endl;
   }
 }
-void checkWinning()  //funtion to check the winning state
+void checkWinning()  //function to check the winning state
 {
   int temp = 1;
   bool result = true;
